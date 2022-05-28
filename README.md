@@ -11,11 +11,13 @@ The dataset contains 400 records including userId, gender, age, estimatedsalary 
 **Solution**
 
 Th following steps performed using Logistic Regression:
---Pre-processing of data
---EDA
---Algorithm used = Logistic rgression
---performance Evaluation
+Pre-processing of data
+EDA
+Algorithm used = Logistic rgression
+performance Evaluation
 
 The confusion matrix below shows  84% accuracy.
+
+
 ![image](https://user-images.githubusercontent.com/68466630/170812920-cc184b7e-cfaf-45af-a751-1b8a64a5c218.png)
 
