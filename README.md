@@ -1,4 +1,4 @@
-# Social-Network-ad-analysis-using-logistic-regression
+# Social Network ad analysis by classification
 
 **Problem Statement**
 
