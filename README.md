@@ -21,8 +21,6 @@ Algorithm used = Logistic rgression
 
 performance Evaluation
 
-The **confusion matrix** below shows 85% accuracy and is later improved by KNN algorithm to 89%.
+The Logistic Regression gives 85% accuracy and is later improved by KNN algorithm to 89%.
 
-
-![image](https://user-images.githubusercontent.com/68466630/170812920-cc184b7e-cfaf-45af-a751-1b8a64a5c218.png)
 
