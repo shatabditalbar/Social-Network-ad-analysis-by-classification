@@ -21,6 +21,8 @@ Algorithm used = Logistic rgression
 
 performance Evaluation
 
+**Conclusion**
+
 The Logistic Regression gives 85% accuracy and is later improved by KNN algorithm to 89%.
 
 
